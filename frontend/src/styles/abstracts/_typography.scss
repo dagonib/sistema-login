@@ -1,0 +1,20 @@
+/*============ Typography =============*/
+/* .5rem = 8px | 1rem = 16px | 1px = 0.0625rem */
+
+/* Título Principal */
+$main-title-font-sizes: (
+  null: 2rem,
+  large: 1.6rem,
+  medium: 1.4rem,
+  small: 1.2rem,
+  extra-small: 1rem,
+);
+
+/* Párrafos */
+$paragraph-font-sizes: (
+  null: 1.4rem,
+  large: 1.3rem,
+  medium: 1.2rem,
+  small: 1rem,
+  extra-small: 0.8rem,
+);
